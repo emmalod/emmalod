@@ -4,7 +4,9 @@
 
 Welcome to my GitHub page!
 
-✨ My name is Emma Lodetti, I'm a **Geoinformatics Engineering** student at **Politecnico di Milano**.
+✨ My name is Emma Lodetti
+
+📚 I'm a **Geoinformatics Engineering** student at **Politecnico di Milano**.
 
 🔭 I'm into **Neural Networks** and **Earth Observation**.
 
