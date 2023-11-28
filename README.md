@@ -1,6 +1,6 @@
 ### Hi 👋
 
-<img align="right" alt="GIF" height="30%" src="giphy.gif" />
+<img align="right" alt="GIF" height="200px" src="giphy.gif" />
 
 Welcome to my GitHub page!
 
@@ -10,8 +10,9 @@ Welcome to my GitHub page!
 
 💬 I love **cinema**, **climbing** and **martial arts**.
 
+<br/> 
 
-<h2> Github Stats </h2> 
+<h2> GitHub Stats </h2> 
 <a href="https://github.com/emmalod/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmalod&layout=donut&theme=merko" /></a>
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=emmalod&theme=merko&show_icons=true" alt="emmalod" />
 <br/>
