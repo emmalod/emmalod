@@ -2,11 +2,11 @@
 
 Welcome to my GitHub page!
 
-✨ My name is Emma Lodetti, I'm a Geoinformatics Engineering student.
+✨ My name is Emma Lodetti, I'm a **Geoinformatics Engineering** student at **Politecnico di Milano**.
 
-🔭 I'm into Neural Networks and Earth Observation.
+🔭 I'm into **Neural Networks** and **Earth Observation**.
 
-💬 I love cinema and martial arts.
+💬 I love **cinema**, **climbing** and **martial arts**.
 
 ![emmalod's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmalod&theme=great-gatsby&show_icons=true)
 
