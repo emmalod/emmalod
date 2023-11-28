@@ -1,5 +1,7 @@
 ### Hi 👋
 
+<img align="right" alt="GIF" height="300px" width="300px" src="./assets/skr-sig.gif" />
+
 Welcome to my GitHub page!
 
 ✨ My name is Emma Lodetti, I'm a **Geoinformatics Engineering** student at **Politecnico di Milano**.
@@ -7,6 +9,7 @@ Welcome to my GitHub page!
 🔭 I'm into **Neural Networks** and **Earth Observation**.
 
 💬 I love **cinema**, **climbing** and **martial arts**.
+
 
 ![emmalod's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmalod&theme=great-gatsby&show_icons=true)
 
