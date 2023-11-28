@@ -1,6 +1,6 @@
 ### Hi 👋
 
-<img align="right" alt="GIF" height="300px" width="300px" src="giphy.gif" />
+<img align="right" alt="GIF" height="30%" src="giphy.gif" />
 
 Welcome to my GitHub page!
 
