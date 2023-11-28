@@ -15,7 +15,6 @@ Welcome to my GitHub page!
 <h2> GitHub Stats </h2> 
 <a href="https://github.com/emmalod/github-readme-stats"><img align="left" width="39.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmalod&layout=donut&theme=merko" /></a>
 <img width="58%" src="https://github-readme-stats.vercel.app/api?username=emmalod&theme=merko&show_icons=true" alt="emmalod" />
-<br/>
 
 <!--
 
