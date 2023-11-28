@@ -1,6 +1,6 @@
 ### Hi 👋
 
-<img align="right" alt="GIF" height="300px" width="300px" src="./assets/skr-sig.gif" />
+<img align="right" alt="GIF" height="300px" width="300px" src="giphy.gif" />
 
 Welcome to my GitHub page!
 
@@ -11,7 +11,7 @@ Welcome to my GitHub page!
 💬 I love **cinema**, **climbing** and **martial arts**.
 
 
-![emmalod's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmalod&theme=great-gatsby&show_icons=true)
+![emmalod's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmalod&theme=merko&show_icons=true)
 
 <!--
 **emmalod/emmalod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
