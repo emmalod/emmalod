@@ -11,10 +11,16 @@ Welcome to my GitHub page!
 💬 I love **cinema**, **climbing** and **martial arts**.
 
 
+<h2> Github Stats </h2> 
+<a href="https://github.com/emmalod/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmalod&layout=donut&theme=merko" /></a>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=emmalod&theme=merko&show_icons=true" alt="emmalod" />
+<br/>
+
+<!--
+
 ![emmalod's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmalod&theme=merko&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmalod&layout=donut&theme=merko)](https://github.com/emmalod/github-readme-stats)
 
-<!--
 **emmalod/emmalod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
