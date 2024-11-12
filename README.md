@@ -8,7 +8,7 @@ Welcome to my GitHub page!
 
 📚 I'm a **Geoinformatics Engineering** student at **Politecnico di Milano**
 
-🔭 I'm into **Neural Networks** and **Earth Observation**
+🔭 Currently working on **3D Neural Networks on Point Clouds** against environmental crime
 
 💬 I love **cinema**, **climbing** and **martial arts**
 
